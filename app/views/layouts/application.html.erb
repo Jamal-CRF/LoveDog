@@ -10,6 +10,23 @@
   </head>
 
   <body>
-    <%= yield %>
+    <div class="bg-danger text-white text-center mb-4 p-4">
+      <%= link_to root_path, class: 'text-white' do %>
+        <h1 class="display-4"> LoveDog </h1>
+      <% end %>
+
+      <p class="lead">Tudo sobre os nossos cães</p>
+    </div>
+
+       
+          <div class="container">
+              <%= yield %> 
+          </div>
+
+      
+      <footer class="bg-danger text-white text-center mt-5 p-4">
+        Copyright © LoveDog <%= Date.current.year %>
+      </footer> 
+    
   </body>
 </html>
