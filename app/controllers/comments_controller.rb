@@ -2,7 +2,7 @@ class CommentsController < ApplicationController
   def create
     comment = Comment.create!(comments_params)
 
-    redirect_to comment_post, notice: 'Comentário enviado com sucesso!'
+    redirect_to comment.post, notice: 'Comentário enviado com sucesso!'
   end
 
   private 
