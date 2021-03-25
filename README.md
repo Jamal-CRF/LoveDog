@@ -25,3 +25,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [rails-i18n](https://github.com/svenfuchs/rails-i18n)
 - [pry](https://github.com/pry/pry)
 - [friendly_id](https://github.com/norman/friendly_id)
+
+
+
