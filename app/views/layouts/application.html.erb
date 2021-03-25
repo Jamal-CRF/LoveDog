@@ -7,15 +7,17 @@
 
     <%= stylesheet_pack_tag 'application', media: 'all' %>
     <%= javascript_pack_tag 'application' %>
+
+    <%= favicon_link_tag asset_path('logo.png') %>
   </head>
 
   <body>
-    <div class="bg-danger text-white text-center mb-4 p-4">
-      <%= link_to root_path, class: 'text-white' do %>
-        <h1 class="display-4"> LoveDog </h1>
+    <div class="bg-warning text-center mb-4 p-4">
+      <%= link_to root_path do %>
+        <%= image_tag("logo.png", size: "290", alt: "Logo-LoveDog") %>
       <% end %>
 
-      <p class="lead">Tudo sobre os nossos cães</p>
+      <p class="lead pr-1">Tudo sobre os nossos cães</p>
     </div>
 
        
@@ -50,7 +52,7 @@
           </div>
         
       
-      <footer class="bg-danger text-white text-center mt-5 p-4">
+      <footer class="bg-warning text-center mt-5 p-4">
         Copyright © LoveDog <%= Date.current.year %>
       </footer> 
     
