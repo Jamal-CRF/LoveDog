@@ -26,5 +26,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [pry](https://github.com/pry/pry)
 - [friendly_id](https://github.com/norman/friendly_id)
 
+<h1>Autor</h1>
+
+<img src="app/assets/images/lucas foto.jpg" width="350" title="hover text">
+
+<p>Feito com ❤️ por Lucas Araujo,em homenagem aos meus 2 cães,<strong> Arthas e Kiara!🐾</strong></p>
+
 
 
