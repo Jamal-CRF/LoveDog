@@ -28,7 +28,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <h1>Autor</h1>
 
-<img src="app/assets/images/lucas foto.jpg" width="100" border-radius="20px" title="hover text">
+<img src="app/assets/images/lucas foto.jpg" width="110" title="hover text">
 
 <p>Feito com ❤️ por <a href="https://www.linkedin.com/in/lucasaraujomouta/">Lucas Araujo</a>, em homenagem aos meus 2 cães,<strong> Arthas e Kiara! 🐾🐾</strong></p>
 
