@@ -30,7 +30,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <img src="app/assets/images/lucas foto.jpg" width="100" title="hover text">
 
-<p>Feito com ❤️ por <a href="https://www.linkedin.com/in/lucasaraujomouta/">Lucas Araujo</a>,em homenagem aos meus 2 cães,<strong> Arthas e Kiara!🐾</strong></p>
+<p>Feito com ❤️ por <a href="https://www.linkedin.com/in/lucasaraujomouta/">Lucas Araujo</a>, em homenagem aos meus 2 cães,<strong> Arthas e Kiara! 🐾🐾</strong></p>
+
 
 
 
