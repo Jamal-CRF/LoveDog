@@ -17,7 +17,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Rails](https://rubyonrails.org/)
 - [JavaScript](https://devdocs.io/javascript/)
 - [Bootstrap](https://getbootstrap.com/)
-- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [PostgreSQL](https://www.postgresql.org/)
 
 <h1>Gems</h1>
